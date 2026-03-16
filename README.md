@@ -1,5 +1,5 @@
 # SMILE
-Notebooks associated with the publication "Macro-Dipole-Constrainted Learning of Atomic Charges for Accurate Electrostatic Potentials at Electrochemical Interfaces"
+Notebooks associated with the publication "Macro-Dipole-Constrainted Learning of Atomic Charges for Accurate Electrostatic Potentials at Electrochemical Interfaces", Phys. Rev. Lett. 136, 118001, 2026 [https://doi.org/10.1103/5hh2-wypm].
 The raw DFT data and associated files are available on Edmond[https://doi.org/10.17617/3.FSA883]. Specifically, notebooks and the extracted python data files are contained in `notebooks.tar.gz`. Only the Jupyternotebook files are uploaded here. 
 
 `ML_WC.ipynb` is the ML model that learns the local Wannier center position for water molecules (corresponding to Figure 1 in the paper).
